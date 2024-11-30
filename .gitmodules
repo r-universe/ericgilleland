@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "extRemes"]
-	path = extRemes
-	url = https://github.com/cran/extRemes
 [submodule "in2extRemes"]
 	path = in2extRemes
 	url = https://github.com/cran/in2extRemes
